@@ -1,0 +1,11 @@
+{
+    "name": "firebase login Form",
+    "version": "1.0",
+    "author": "Aryan Patel",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_title": "Login Form",
+        "default_icon": "logo.png",
+      "default_popup":"popup.html"
+    }
+  }
